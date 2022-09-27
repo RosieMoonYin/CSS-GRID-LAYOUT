@@ -14,7 +14,7 @@ body {
     /*grid display properties*/
     display:grid;
     grid-gap: 24px;
-    grid-template-rows: 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr 1fr;
+    grid-template-rows: 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr 1fr, 1fr;
     grid-template-columns: 1fr, 1fr, 1fr, 1fr, 1fr, 1fr;
     
 
@@ -103,7 +103,7 @@ body {
 
 .grid-item12 {
     border: 1px solid #7777;
-    
+
     background-color: rgba(122, 122, 147, 0.672);
     color:blueviolet;
     font-weight: 800;
